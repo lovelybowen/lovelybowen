@@ -2,7 +2,6 @@
 
 I have always been an ascetic practicing on the road of technology. Connect with me here -
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
 [![Email Badge](https://img.shields.io/badge/-lovelybowen@163.com-c14438?style=plastic&logo=Email&logoColor=white&link=mailto:lovelybowen@163.com)](mailto:lovelybowen@163.com)
 
 
