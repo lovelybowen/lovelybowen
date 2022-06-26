@@ -15,7 +15,7 @@ I have always been an ascetic practicing on the road of technology. Connect with
 - 💻 I work using:
   ![Java](https://img.shields.io/badge/-Java-3b2e5a?style=plastic&logo=java)
   ![Spring Framework](https://img.shields.io/badge/-Spring-092E20?style=plastic&logo=Spring)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+  ![Mysql](https://img.shields.io/badge/-Mysql-336791?style=plastic&logo=mysql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
