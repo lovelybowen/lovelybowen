@@ -27,5 +27,3 @@ I have always been an ascetic practicing on the road of technology. Connect with
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Nest.JS](https://img.shields.io/badge/-Nest.JS-c7b198?style=plastic&logo=Nest.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: If I could only choose one hobby, I would choose cooking.
-
-![lovelybowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelybowen)
