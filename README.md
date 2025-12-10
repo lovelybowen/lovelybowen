@@ -29,9 +29,3 @@ I have always been an ascetic practicing on the road of technology. Connect with
 - ⚡️ Fun fact: If I could only choose one hobby, I would choose cooking.
 
 ![lovelybowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelybowen)
-
-
-# Read my recent blog's
-All these are friend link you can access for free
-
-- [Make your commit more meaningful using emojis](https://medium.com/@moshfiqrony/make-your-commit-more-meaningful-using-emojis-7dbf553293e8?source=friends_link&sk=28cd4c9b6e08e3fb9b1c6723cb4ef7ff)
