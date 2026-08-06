@@ -35,5 +35,5 @@ I specialize in designing scalable distributed systems and empowering them with 
 
 ### 📫 Let's Connect
 Looking to build scalable systems or robust AI Agents for your product? Let's talk!
-- 📧 **Email:** [xingyaoh91@gmail.com]
-- 💬 **WeChat:** [Available on request]
+- 📧 **Email:** [xingyaoh91@gmail.com](mailto:xingyaoh91@gmail.com)
+- 💬 **WeChat:** Available on request
