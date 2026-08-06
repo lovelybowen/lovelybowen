@@ -1,13 +1,14 @@
 # Hi there, I'm Bowen 👋
 
-**Freelance Developer | System Architect | AI Agent Integrator**
+**Freelance Developer | System Architect | AI Agent Developer**
 
 I specialize in designing scalable distributed systems and empowering them with cutting-edge AI technologies. I help businesses turn complex requirements into robust software and build intelligent **AI Agents** to automate workflows and enhance productivity.
 
 ---
 
 ### 🛠️ What I Do
-- **🤖 AI Integration:** Building intelligent AI Agents and utilizing OpenAI Codex & Spring AI for advanced automation and smart workflows.
+- **🤖 AI Agent Development:** Building intelligent AI Agents and leveraging advanced Large Language Models (LLMs) for seamless automation and smart workflows.
+- **💳 Global Payment Solutions:** Integrating secure international payment gateways and building robust payment acquiring systems for global business reach.
 - **⚙️ Backend & Distributed Systems:** Building robust APIs, microservices, and highly scalable distributed architectures.
 - **💻 Full-Stack Development:** Delivering seamless user experiences with modern front-end technologies.
 - **💡 Technical Consulting:** Providing guidance on tech stack selection, system modernization, and AI transformation.
@@ -32,10 +33,7 @@ I specialize in designing scalable distributed systems and empowering them with 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=probot&logoColor=white)
 
-### 📈 GitHub Stats
-![Bowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelybowen&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect
-Looking to build scalable systems or integrate AI into your product? Let's talk!
+Looking to build scalable systems or robust AI Agents for your product? Let's talk!
 - 📧 **Email:** [xingyaoh91@gmail.com]
 - 💬 **WeChat:** [Available on request]
