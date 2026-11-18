@@ -1,7 +1,5 @@
 # Hi there, I'm Bowen 👋
 
-**Developer**
-
 I design scalable systems and build intelligent **AI Agents** that automate real work.
 
 ---
